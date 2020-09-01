@@ -1,2 +1,3 @@
 # MinimalAlarm
-An Alarm using a sound with Vanilla Javascript
+An Alarm using Vanilla Javascript snoozes with a sound obviously.
+
